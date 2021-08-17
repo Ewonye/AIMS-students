@@ -1,2 +1,2 @@
-# AIMS-students
-Assignments ,quizzes and projects
+# Image classification
+The model for this project was adapted from Kaggle.
